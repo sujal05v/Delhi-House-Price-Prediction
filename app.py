@@ -73,7 +73,7 @@ st.markdown("""
 # Load Model
 # --------------------------------------------------
 
-model = joblib.load("delhi_house_price_model.pkl")
+model = joblib.load("delhi_house_price_model_compressed.pkl")
 
 # --------------------------------------------------
 # Header
